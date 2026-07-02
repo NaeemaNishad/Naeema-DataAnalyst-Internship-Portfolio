@@ -149,7 +149,8 @@ An interactive HTML dashboard was developed to enable users to explore:
 
 📷 Dashboard Preview
 
-<img width="305" height="439" alt="image" src="https://github.com/user-attachments/assets/eb8cb1b0-9308-410f-8338-8423a660bcd4" />
+<img width="200" height="290" alt="image" src="https://github.com/user-attachments/assets/9904f08a-ccfd-4ee3-a037-f927c13a78e7" />
+
 
 
 🌐 Live Dashboard
